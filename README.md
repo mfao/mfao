@@ -11,7 +11,7 @@ Graduated with a bachelor of science in software engineering in 2017 and been co
 *   ✉️  You can contact me at [info@markusfolz.com](mailto:info@markusfolz.com)
 *   🧠  I'm learning FKIT (Firebase + SvelteKit)
 *   🤝  I'm open to collaborating on cool SaaS projects
-*   ⚡  I love backpacking and bikepacking
+*   ⚡  I love bikepacking, backpacking and mountaineering
 
 
 ### Skills
